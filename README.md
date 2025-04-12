@@ -3,7 +3,7 @@ This is just a simple pack with all the bare minimum stuff for Atmosphere, Switc
 
 This "pack" contains all the stuff for Atmosphere, the best custom firmware for Nintendo Switch.
 
-This contains Atmosphere, Hekate, Latest Sig Patches, TegraRcmGui, Fat32 Format Gui and a guide made by me.
+This contains Atmosphere, Hekate, Latest Sig Patches, TegraRcmGui, Fat32 Format Gui, LockPickRcm and a guide made by me.
 
                        *NOTE THE GUIDE DOES NOT CONTAIN INFO ON HOW TO INSTALL EMUNAND*
 
@@ -15,3 +15,4 @@ The requirements for this are:
 5. USB-C Type cable
 
 The contents of the pack will be updated by me if something in the pack (such as Atmosphere of Hekate or Sig Patches) get an update.
+Oh and this is my first github thing and I know its pretty lazy, but please tell me if something is wrong or you need help!
